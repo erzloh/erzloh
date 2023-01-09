@@ -1,5 +1,2 @@
-# Eric Holzer's GitHub Profile
-
-These are my certificates of completion of the 'Learn Enough' Tutorials :)
-
-<a href="https://www.learnenough.com/certificates/erzloh"><img src="https://www.learnenough.com/certificates/erzloh/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/erzloh"><img src="https://www.learnenough.com/certificates/erzloh/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a><a href="https://www.learnenough.com/certificates/erzloh"><img src="https://www.learnenough.com/certificates/erzloh/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a>
+# Welcome to my GitHub profile :)
+My name is Eric Holzer and I'm currently a student at 42 Lausanne in Switzerland, a campus from the internationally renown 42 Network programming schools.
