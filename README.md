@@ -1,2 +1,5 @@
-# Welcome to my GitHub profile!
-My name is Eric Holzer and I'm currently a student at 42 Lausanne in Switzerland, a campus from the internationally renown 42 programming schools.
+# Howdy!
+- 👨‍🎓 Student at 42 Lausanne, in Switzerland
+- 🔊 Media Music Composer and Sound Designer
+- 👾 Intern Developer at NaravenGames
+- 😎 Cooking, Language Learning, and Calisthenics!
