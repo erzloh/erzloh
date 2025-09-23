@@ -1,5 +1,5 @@
 # Howdy!
-- 👨‍🎓 Student at 42 Lausanne, Switzerland
+- 👨‍🎓 Used to be a student at 42Lausanne, Switzerland -> Now, at 42Tokyo, Japan
 - 🌐 Fullstack Web Developer
 - 🎹 Independent Media Music Composer (sometimes)
 
